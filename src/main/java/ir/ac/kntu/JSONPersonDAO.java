@@ -13,6 +13,6 @@ public class JSONPersonDAO implements PersonDAO {
 
     @Override
     public void saveAllPersons(List<Person> list) {
-
+        //same as before but here use json format
     }
 }
